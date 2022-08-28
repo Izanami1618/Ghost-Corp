@@ -818,7 +818,18 @@ https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/62407
 
 -SPORTS-
 
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFR4wZ2AklUAuPGEMP5sMA_Y2gIfeEsrswur5gJoNJBvKbwamNhyGnkjPCSwgcmjHgss&usqp=CAU" tvg-name="DAZN | SD"  group-title="SPORTS",DAZN | SD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/155286.ts
 
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFR4wZ2AklUAuPGEMP5sMA_Y2gIfeEsrswur5gJoNJBvKbwamNhyGnkjPCSwgcmjHgss&usqp=CAU" tvg-name="DAZN | UHD"  group-title="SPORTS",DAZN | UHD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/155287.ts
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" tvg-name="DAZN 2 | UHD"  group-title="SPORTS",DAZN 2 | UHD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/155289.ts
+
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" tvg-name="DAZN 2 | SD"  group-title="SPORTS",DAZN 2 | SD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/155288.ts
 
 
 #EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA" tvg-name="TUDN - USA | UHD"  group-title="SPORTS",TUDN - USA | UHD
