@@ -833,58 +833,88 @@ http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/155288.ts
 
 
 #EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA" tvg-name="TUDN - USA | UHD"  group-title="SPORTS",TUDN - USA | UHD
-https://dcs-live.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/manifest.m3u8?encp=E5jBD32hJ8PZNGnVvKXOUA:s2pHHCSHhetGCJhkGt6cQ2peZTdD5qdehj_T1MX8zP1JZelNJWUTIiYLhDiwjE6Oulb3MD4bWe23W-lvcjIOohAsjxs7iDalKGIGKtmXZMRGKtLhynbOu9_-cKtBlD_8ZPi4AivYX9WQnaR3WCqc73LZ8GSeR3mL-DJxDH7c6rNZPthULV7J4krXTArGhjecUqC4OzRbZ0zA06dWyCqyBlEr8d_B09iFsHHzDJcs4GP_YGw2MGY2h2RR6bFefF7oBRTCcypZ3bTBlIFoq20z2jZOUakaTshcgplT5zhbi3S3GNz89XRWqarDo5WvgiWybGGBwKB5NUr--jTEcievckMfXgSccpoO0yd5WLY2KmU5X9At-9sSr7UP8MB0wc-f44G3TjUQlkY0eSuYytQqyJQXrJD461t7rfH-_Fzq3LZ1vsQpXyzMlSHSL37jGJet8BI6IgrCWTfb1ho6PW-2IroCedwsdYnHEOIIg5oh_BN_GF7c0g-E9d39VjmCQV-e-9TLWLFli39NlyDm0ifAKlTEKyLFnyKvau_CyKMdmM1arI5LqshG7-hP6CAGfK1MwGxagJuzg-anSGnZ3n4BYdHyOrOZg1OxHJJ9ZBxmoe7GRnFQg9ybz8L3S8rcSaoQSygX5aJv3UQdzNd1tSVCAA&anvtrid=35ab81e1d30f05a73f8708bc9b9cfc5b&anvauth=tb=0~te=1660083445~sgn=885320f39b5b62ca198f61537d61439594470f75ed922e46c26b11c8574d5189&t=1660083355
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/28435.ts
+
+
+#EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA" tvg-name="TUDN - MX | UHD"  group-title="SPORTS",TUDN - MX | UHD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/28433.ts
+
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" tvg-name="TUDN Extra | UHD"  group-title="SPORTS",TUDN Extra | UHD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/28436.ts
+
 
 #EXTINF:0, tvg-logo="https://archive.org/services/img/EspnUsa" tvg-name="ESPN USA | HD"  group-title="SPORTS",ESPN USA | HD
 
 
-#EXTINF:0, tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/02/ESPN-logo.jpg" tvg-name="ESPN - ARG | HD"  group-title="SPORTS",ESPN - ARG | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
-#EXTINF:0, tvg-logo="https://www.logolynx.com/images/logolynx/07/07113847db4c87c8f2be573566e9e8d4.png" tvg-name="ESPN 2 - ARG | HD"  group-title="SPORTS",ESPN 2 - ARG | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+#EXTINF:0, tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/02/ESPN-logo.jpg" tvg-name="ESPN - MX | HD"  group-title="SPORTS",ESPN - MX | HD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/28422.ts
+
+#EXTINF:0, tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/02/ESPN-logo.jpg" tvg-name="ESPN - ARG | UHD"  group-title="SPORTS",ESPN - ARG | UHD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/117715.ts
+
+#EXTINF:0, tvg-logo="https://www.logolynx.com/images/logolynx/07/07113847db4c87c8f2be573566e9e8d4.png" tvg-name="ESPN 2 - MX | HD"  group-title="SPORTS",ESPN 2 - MX | HD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/28425.ts
+
+#EXTINF:0, tvg-logo="https://www.logolynx.com/images/logolynx/07/07113847db4c87c8f2be573566e9e8d4.png" tvg-name="ESPN 2 - ARG | UHD"  group-title="SPORTS",ESPN 2 - ARG | UHD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/117716.ts
+
+
+#EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" tvg-name="ESPN 3 - MX | HD"  group-title="SPORTS",ESPN 3 - MX | HD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/28428.ts
 
 #EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" tvg-name="ESPN 3 - ARG | HD"  group-title="SPORTS",ESPN 3 - ARG | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/117717.ts
 
 #EXTINF:0, tvg-logo="https://i0.wp.com/www.androidpure.com/wp-content/uploads/2014/05/ESPN-FC-World-Cup-App.png?resize=300%2C300" tvg-name="ESPN 4 - ARG | HD"  group-title="SPORTS",ESPN 4 - ARG | HD
-
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/135242.ts
 
 #EXTINF:0, tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ca7eacbfa85ac05b53_espn-extra.jpeg" tvg-name="ESPN EXTRA | SD"  group-title="SPORTS",ESPN EXTRA | SD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/28431.ts
+
+#EXTINF:0, tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ca7eacbfa85ac05b53_espn-extra.jpeg" tvg-name="ESPN EXTRA | SD"  group-title="SPORTS",ESPN EXTRA | SD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/117718.ts
 
 
 #EXTINF:0, tvg-logo="https://us.cdn.eltribuno.com/042022/1651179757165/image%20(7).png" tvg-name="ESPN Premium - ARG | HD"  group-title="SPORTS",ESPN Premium - ARG | HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
 
-#EXTINF:0, tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" tvg-name="Directv Sports 1 | HD"  group-title="SPORTS",Directv Sports 1 | HD
-https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd?&ck=eyJhN2UwOWM2ZjQ3YWY1N2U5OTliNzg5ZWI1NGQzMjU1ZCI6IjI2M2Y2ZGIxMmQ2ZjlhYTcyZjJjYzliMGVmMmUyNmIyIn0=
+
 
 #EXTINF:0, tvg-logo="https://toppng.com/uploads/preview/vinik-sport-and-entertainment-management-program-lecture-fox-sports-tv-logo-11568985815yinwmaozli.png" tvg-name="FOX SPORTS - USA | HD"  group-title="SPORTS",FOX SPORTS - USA | HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:0, tvg-logo="https://toppng.com/uploads/preview/vinik-sport-and-entertainment-management-program-lecture-fox-sports-tv-logo-11568985815yinwmaozli.png" tvg-name="FOX SPORTS - MX | UHD"  group-title="SPORTS",FOX SPORTS - MX | UHD
-https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1657855028.774&yo.ap=https%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F&yo.t.jt=1000&yo.eb.fb=aHR0cHM6Ly9sbmMtZm94LXNwb3J0cy1lc3Bhbm9sMi50dWJpLnZpZGVvL2luZGV4Lm0zdTg&app_id=tubitv&content_id=613695&content_type=mp4&coppa_enabled=false&device_id=70bea4c9-52af-40d6-a3ad-a74830a14bd1&language=es&now_pos=0&pub_id=8b1d1d56f624b05850f2e4514d080bf1&user_id=44975736&vpaid_enabled=true&platform=WEB&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
-server : nginx/1.16.1
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/28413.ts
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" tvg-name="Fox Sports 2 - MX | SD"  group-title="SPORTS",Fox Sports 2 - MX | SD
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/28416.ts
+
 
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" tvg-name="Fox Sports 3 - MX | SD"  group-title="SPORTS",Fox Sports 3 - MX | SD
-https://cvi.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/28419.ts
+
 
 #EXTINF:0, tvg-logo="http://elvenezolano.com.pa/wp-content/uploads/2020/09/Roastbrief-Claro-Sports-10-Claro-Video-5.png" tvg-name="Claro SPORTS | HD"  group-title="SPORTS",Claro SPORTS | HD
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" tvg-name="DEPORTV | HD"  group-title="SPORTS",DEPORTV | HD
+
+#EXTINF:0, tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" tvg-name="Directv Sports 1 | HD"  group-title="SPORTS",Directv Sports 1 | HD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/117705.ts
+
+#EXTINF:0, tvg-logo="https://hubdeportivo.com/wp-content/uploads/2021/05/directv-sports-2-en-vivo-2017.png" tvg-name="Directv Sports 2 | HD"  group-title="SPORTS",Directv Sports 2 | HD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/117709.ts
+
+#EXTINF:0, tvg-logo="https://hubdeportivo.com/wp-content/uploads/2020/11/DirecTV_Plus_2005_logo-1.png" tvg-name="Directv Sports + | HD"  group-title="SPORTS",Directv Sports + | HD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/117710.ts
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" tvg-name="TNT SPORTS - ARG | HD"  group-title="SPORTS",TNT SPORTS - ARG | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" tvg-name="TNT SPORTS | HD"  group-title="SPORTS",TNT SPORTS | HD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/138479.ts
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" tvg-name="TNT SPORTS - MX | HD"  group-title="SPORTS",TNT SPORTS - MX | HD
-
-
-#EXTINF:0, tvg-logo="https://www.tvmax-9.com/futbol_internacional/Volante-Camilo-Aguirre-Perez-Zeledon_3944219.jpg" tvg-name="TVMAX Deportes - MX | HD"  group-title="SPORTS",TVMAX Deportes - MX | HD
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" tvg-name="TNT SPORTS 2 | HD"  group-title="SPORTS",TNT SPORTS 2 | HD
+http://digitaltv.pro:2082/live/MannyMaLive/gs6y2Qtg67/153803.ts
 
 
 #EXTINF:0, tvg-logo="https://image.winudf.com/v2/image1/Y29tLm11c3Rtb2JpbGUudHljbXVuZGlhbF9pY29uXzE1OTAxMzk5NDhfMDQ5/icon.png?w=&fakeurl=1" tvg-name="TyC - ARG | SD"  group-title="SPORTS",TyC - ARG | SD
