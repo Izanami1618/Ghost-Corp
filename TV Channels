@@ -3,55 +3,55 @@
 -CANALES NACIONALES-
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/T/televicentro-canal-2-nicaragua-logo-82E5DB9EC0-seeklogo.com.png" tvg-name="Televicentro - NIC | LQ"  group-title="NATIONAL TV",Televicentro - NIC | LQ
-http://138.117.4.70:8075/channel2/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://www.canal4.com.ni/wp-content/uploads/2021/01/Icono-canal-4-copia3.png" tvg-name="Canal 4 - NIC | LQ"  group-title="NATIONAL TV",Canal 4 - NIC | LQ
-http://138.117.4.70:8075/channel4/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://canal6.com.ni/wp-content/uploads/2021/05/cropped-Logo-Canal-2-01.png" tvg-name="Canal 6 - NIC | SD"  group-title="NATIONAL TV",Canal 6 - NIC | SD
-http://138.117.4.70:8075/channel6/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" tvg-name="TN8 | HD"  group-title="NATIONAL TV",TN8 | HD
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w619636970.m3u8
+
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/JdtUkHQ.png/revision/latest/scale-to-width-down/250?cb=20200506010413" tvg-name="CANAL 9 - NIC | LQ"  group-title="NATIONAL TV",CANAL 9 - NIC | LQ
-http://138.117.4.70:8075/channel9/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" tvg-name="CANAL 10 - NIC | LQ"  group-title="NATIONAL TV",CANAL 10 - NIC | LQ
-http://138.117.4.70:8075/channel10/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/TV_Red_Canal_11_2010.png/revision/latest?cb=20170804035806" tvg-name="TV RED (CANAL 11) - NIC | LQ"  group-title="NATIONAL TV",TV RED (CANAL 11) - NIC | LQ
-http://138.117.4.70:8075/channel11/playlist.m3u8
+
 
 #EXTINF:0,tvg-logo="https://www.coolstreaming.us/img/ch/image22815816151.jpg" tvg-name="Viva Nicaragua (Canal 13) | HD"  group-title="NATIONAL TV",Viva Nicaragua (Canal 13) | HD
-http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1439.m3u8
+
 
 #EXTINF:0, tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/VOS-TV.png" tvg-name="VOS TV - NIC | HD"  group-title="NATIONAL TV",VOS TV - NIC | HD
-https://streannlivevostv.cachefly.net/vostv1/vostv1/chunks.m3u8
+
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Canal_15_Nicarag%C3%BCense_2019.png/640px-Canal_15_Nicarag%C3%BCense_2019.png" tvg-name="CANAL 15 - NIC | LQ"  group-title="NATIONAL TV",CANAL 15 - NIC | LQ
-http://138.117.4.70:8075/channel15/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQJYlaCX1UArt5jM5r0sYe2E46sgxqbpuudC75Qaw=s900-c-k-c0x00ffffff-no-rj" tvg-name="WTV(CANAL 20) - NIC | LQ"  group-title="NATIONAL TV",WTV(CANAL 20) - NIC | LQ
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:0, tvg-logo="https://www.radio.es/images/broadcasts/d8/ea/108342/1/c300.png" tvg-name="LA ROCK (CANAL 22) - NIC | LQ"  group-title="NATIONAL TV",LA ROCK (CANAL 22) - NIC | LQ
-http://138.117.4.70:8075/channel22/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1311513721299243008/dgVc89Ju_400x400.jpg" tvg-name="CANAL 23 - NIC | LQ"  group-title="NATIONAL TV",CANAL 23 - NIC | LQ
-http://138.117.4.70:8075/channel23/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/jbn-per-en-vivo-1375.jpg" tvg-name="JBN (Canal 39) - NIC | SD"  group-title="NATIONAL TV",JNB (Canal 39) - NIC | SD
-http://138.117.4.70:8075/channeljbn/playlist.m3u8
+https://inliveserver.com:1936/17504/17504/chunklist_w308255.m3u8
 
 #EXTINF:0, tvg-logo=" tvg-name="THE ONE (CANAL 43) - NIC | LQ"  group-title="NATIONAL TV",THE ONE (CANAL 43) - NIC | LQ
-http://138.117.4.70:8075/channeltvone/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://live.video.aetnd.com/brand_live_streams/aetv/primary/aetv.m3u8?token=aGRudHM9c3Q9MTY1OTMxMzE2Mn5leHA9MTY1OTM3MDc2Mn5hY2w9Lyp+aG1hYz1jOGI4NDA2ZDM5NTdkY2U2MzU2MTMzMDU5MjZiOWEyNDQ2YjU4MDI3MWVkN2IzMGNiYTgzMTQ3MzA0NGY0Mzc1" tvg-name="Managua TV - NIC | LQ"  group-title="NATIONAL TV",Managua TV - NIC | LQ
-https://stream.managua.gob.ni/hls/stream.m3u8
+
 
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1108879740893622273/naY8KsoE_400x400.jpg" tvg-name="MEGABOX - NIC | LQ"  group-title="NATIONAL TV",MEGABOX - NIC | LQ
-https://srv.panelcast.net:443/megaboxni/megaboxni/chunklist_w831122043.m3u8
+https://stmv1.voxhdnet.com/megabox5/megabox5/chunklist_w1403774883.m3u8
 
 
 
