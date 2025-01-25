@@ -1,4 +1,4 @@
 #EXTM3U
 -CANALES NACIONALES-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/televicentro-canal-2-nicaragua-logo-82E5DB9EC0-seeklogo.com.png" tvg-name="Televicentro - NIC | LQ" group-title="NATIONAL", Televicentro - NIC | LQ
-http://example.com/stream-url.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9n0rmTw/Twisters.jpg" tvg-name="TWISTERS - 2024 | FHD" group-title="ESTRENOS 2024", TWISTERS - 2024 | FHD
+https://ia802303.us.archive.org/22/items/estrenos-2024/Twisters%20%282024%29.mp4
