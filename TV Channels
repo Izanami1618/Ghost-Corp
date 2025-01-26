@@ -1,4 +1,4 @@
 #EXTM3U
 -CANALES NACIONALES-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9n0rmTw/Twisters.jpg" tvg-type="movie" tvg-name="TWISTERS - 2024 | FHD" group-title="ESTRENOS 2024", TWISTERS - 2024 | FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9n0rmTw/Twisters.jpg" tvg-type="vod" tvg-name="TWISTERS - 2024 | FHD" group-title="ESTRENOS 2024", TWISTERS - 2024 | FHD
 https://ia802303.us.archive.org/22/items/estrenos-2024/Twisters%20%282024%29.mp4
