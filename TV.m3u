@@ -38,10 +38,10 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 ------------------------------------------------------------------------------------------------------
 
 #CHILDREN
-#EXTINF:-1 tvg-logo="" tvg-name="CARTOONITO . USA | HD"  group-title="CHILDREN", CARTOONITO | HD
+#EXTINF:-1 tvg-logo="" tvg-name="CARTOONITO - USA | HD"  group-title="CHILDREN", CARTOONITO - USA | HD
 https://wikinew.iosplayer.ru/wiki/ustvnationalgeographic/mono.m3u8
-
-
+#EXTINF:-1 tvg-logo="" tvg-name="ANIME STATION - ARG | HD"  group-title="CHILDREN", ANIME STATION - ARG | HD
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
 
 
